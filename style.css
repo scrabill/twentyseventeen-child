@@ -29,5 +29,5 @@ div.site-info {
 .site-info {
 		float: left;
 		padding: 0.7em 0 0;
-		width: none;
+		width: 100%;
 	}
