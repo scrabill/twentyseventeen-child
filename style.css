@@ -28,7 +28,8 @@ body:not(.has-sidebar):not(.page-one-column) .page-header,
 
 /* Pages */
 
-.page.page-one-column:not(.twentyseventeen-front-page) #primary {
+.page.page-one-column:not(.twentyseventeen-front-page) #primary,
+.single-post:not(.has-sidebar) #primary {
 	max-width: none;
 }
 
