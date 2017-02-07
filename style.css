@@ -14,29 +14,18 @@
 
 /* Global */
 
-.left {
-	float:left;
-}
-
-.right {
-	float:right;
-}
-
-div.site-info {
-	
-}
-
 .entry-content {
 	width: 100%;
 }
 
 /* Front Page */
+
 body:not(.has-sidebar):not(.page-one-column) .page-header,
 .blog:not(.has-sidebar) #primary main article {
 	width: 100%;
 }
 
-/* Single Post */
+/* Pages */
 
 .page.page-one-column:not(.twentyseventeen-front-page) #primary {
 	max-width: none;
