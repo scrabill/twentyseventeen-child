@@ -21,7 +21,8 @@
 /* Front Page */
 
 body:not(.has-sidebar):not(.page-one-column) .page-header,
-.blog:not(.has-sidebar) #primary main article {
+.blog:not(.has-sidebar) #primary main article,
+.navigation.pagination {
 	width: 100%;
 }
 
