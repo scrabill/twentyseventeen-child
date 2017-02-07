@@ -38,9 +38,7 @@ body:not(.has-sidebar):not(.page-one-column) .page-header,
 
 /* Single Post */
 
-.archive.page-one-column:not(.has-sidebar) #primary {
-	margin-left: auto;
-	margin-right: auto;
+.page.page-one-column:not(.twentyseventeen-front-page) #primary {
 	max-width: none;
 }
 
