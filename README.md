@@ -6,6 +6,11 @@ Twentyseventeen is one of the best out Wordpress themes I've seen in a while. Th
 
 While I don't expect any contributes, they are more then welcome! If you see a typo or just have a code suggestion, fork it, commmit, create a pull request and I'll get it added in. 
 
+## To-Dos
+
+- [] [Twitter Cards](https://dev.twitter.com/cards/overview)
+- [] Improve page speed
+
 ## References
 
 * [Twenty Seventeen By WordPress.org](https://wordpress.org/themes/twentyseventeen/)
