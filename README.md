@@ -11,7 +11,9 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 - [] [Twitter Cards](https://dev.twitter.com/cards/overview)
 - [] [Improve page speed](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fshannoncrabill.com%2Fblog%2F&tab=mobile)
 - [X] Add Google Analytics
-- [] Add content!
+- [X] Add content!
+- [] ADA compliant
+- [] Show excerpts on blog page 
 
 ## References
 
