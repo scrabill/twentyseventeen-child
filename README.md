@@ -13,8 +13,7 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 - [X] Add Google Analytics
 - [X] Add content!
 - [] ADA compliant
-- [] Show excerpts on blog page 
->>>>>>> readme
+- [] Show excerpts on blog page
 
 ## References
 
