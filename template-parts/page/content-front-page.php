@@ -40,7 +40,7 @@
 			<div class="entry-content">
 				<?php
 					/* translators: %s: Name of current post */
-					the_excerpt ( sprintf(
+					the_content ( sprintf(
 						__( 'Continue reading<span class="screen-reader-text"> "%s"</span>', 'twentyseventeen' ),
 						get_the_title()
 					) );
