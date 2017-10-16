@@ -15,6 +15,7 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 - [] ADA compliant
 - [] Show excerpts on blog page 
 - [] Move core files to parent domain
+- [] SSL Certificate
 
 ## References
 
