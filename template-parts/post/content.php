@@ -48,7 +48,6 @@
 	<?php endif; ?>
 
 	<div class="entry-content">
-		<p>SOME TEXT</p>
 		<?php
 			/* translators: %s: Name of current post */
 			the_excerpt( sprintf(
