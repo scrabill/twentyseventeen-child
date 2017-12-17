@@ -17,6 +17,7 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 - [] Remove or resize post image from home page
 - [] Move core files to parent domain
 - [] SSL Certificate
+- [] Last modified date on post metadata
 
 ## References
 
