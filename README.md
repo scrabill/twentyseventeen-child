@@ -18,6 +18,14 @@ While I don't expect any contributes, they are more then welcome! If you see a t
 - [] Move core files to parent domain
 - [] SSL Certificate
 - [] Last modified date on post metadata
+- [] Lighthouse audit
+	- [] Serve images in next-gen formats
+	- [] Enable text compression
+	- [] Defer off screen image
+	- [] Cache static assets
+	- [] Install manifest
+	- [] Install and register service worker
+	- [] Redirect HTTP traffic to HTTPS
 
 ## References
 
