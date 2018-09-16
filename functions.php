@@ -12,9 +12,8 @@ add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
 function theme_enqueue_styles() {
     wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
 }
-
-
-// start google analytics
+?>
+<?php
 
 add_action('wp_head', 'wpb_add_googleanalytics');
 function wpb_add_googleanalytics() { ?>
@@ -29,4 +28,5 @@ function wpb_add_googleanalytics() { ?>
   gtag('config', 'UA-23719072-1');
 </script>
 
-?>
+ 
+<?php } ?>
