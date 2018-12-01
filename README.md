@@ -29,4 +29,4 @@ Twentyseventeen is one of the best out Wordpress themes I've seen in a while. Th
 
 # Related Projects
 
-- [portfolio 3.0](https://github.com/scrabill/portfolio-3.0
+- [portfolio 3.0](https://github.com/scrabill/portfolio-3.0)
